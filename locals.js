@@ -1309,8 +1309,8 @@ I18N["zh-CN"]["public"] = { // 公共区域翻译
             "Less": "更少",
             "More": "更多",
 
-            "Show more": "显示更多",
-            "Show less": "显示更少",
+            "Show more": "展开",
+            "Show less": "收起",
 
             "Load more…": "载入更多…",
             "Loading more…": "载入更多…",
